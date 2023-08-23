@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 COMMANDE POUR LA SANDWICHERIE POIVRE ET SEL"[D[D[D[D[D[D[D[D[D[D[D[D[D[D"[C[C[C[C[C[C[C[C[D[D[C[C[POIVRE ET SEL"
+=======
+Véronique va prendre une salade de crabe
+>>>>>>> rh
